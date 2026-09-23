@@ -13,4 +13,4 @@ def test_add_command_output():
     )
 
     assert result.returncode == 0
-    assert "Этой строки точно нет в выводе" in result.stdout
+    assert "Купить хлеб" in result.stdout
