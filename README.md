@@ -1,4 +1,5 @@
 # Task Manager
+[![CI](https://github.com/konstmalinin-maker/task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/konstmalinin-maker/task-manager/actions/workflows/ci.yml)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 Краткое описание проекта: консольный менеджер задач для учебных целей.
 ## Стек технологий
