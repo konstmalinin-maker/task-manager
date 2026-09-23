@@ -2,7 +2,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 Краткое описание проекта: консольный менеджер задач для учебных целей.
 ## Стек технологий
-- Python 3.11
+- Python 3.11 больше ничего нет
 - pytest
 ## Установка
 git clone git@github.com:username/task-manager.git
